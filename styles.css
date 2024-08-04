@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+}
+body{
+    background: #8bd6bf;
+    font-family: Arial, sans-serif;
+}
+.circle {
+    width: 28rem;
+    height: 26rem;
+    background-image:linear-gradient(#202926,#15201c);
+    border-radius: 50%;
+    margin: auto;
+    margin-top: 15rem;
+}
+form{
+    position:relative;
+    top: 8rem;
+    left: 0rem;
+    text-align: center;
+}
+.ab{
+    margin-bottom: 20px;
+    color: #a8abab;  
+ }
+.inp-f{
+    width: 15rem;
+    padding: 0.5rem;
+    border: 1px solid;
+    border-radius: 3px;
+    background: #323c38;
+    color: #565b5a;
+}
+.bu{
+    background:#eb4a5c;
+    color: #ffffff;
+    border-radius: 50%;
+    padding: 4rem 4rem;
+    position: absolute;
+    top: 12rem;
+    border: none;
+}
